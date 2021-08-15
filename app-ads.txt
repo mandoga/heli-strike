@@ -28,7 +28,7 @@ prequel.tv, 513, RESELLER
 decenterads.com, 191, RESELLER
 
 #ads for facebook
-
+facebook.com, 2310126195799279, DIRECT, c3e20eee3f780d68
 #ads for ironsrc
 ironsrc.com, 6075e9393411d31ca520ab91, Direct  
 rubiconproject.com, 22412, RESELLER, 0bfd66d529a55807
